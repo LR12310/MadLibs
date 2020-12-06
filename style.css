@@ -1,0 +1,49 @@
+body {
+  color: #C44536;
+  background-color: #EDDDD4;
+  font-size: 40px;
+}
+
+.container {
+  width: 800px;
+  margin: 45px auto;
+}
+
+#submit {
+  background-color: #197278;
+  color: #EDDDD4;
+  font-size: 50px;
+  border: none;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 15px 32px;
+  font-family: 'Comfortaa', cursive;
+
+}
+
+#submit:hover {
+  background-color: #156066;
+}
+
+input {
+  font-size: 40px;
+}
+
+#again {
+  background-color: #197278;
+  color: #EDDDD4;
+  font-size: 50px;
+  border: none;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 15px 32px;
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  font-family: 'Nerko One', cursive;
+}
+
+label, #output {
+  font-family: 'JetBrains Mono', monospace;
+}
